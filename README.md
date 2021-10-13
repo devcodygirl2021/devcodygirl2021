@@ -1,8 +1,8 @@
 ##Olá! Eu sou a Vivianne Guimarães!
 
-- 🎠 Hoje trabalho com front-end
+- 🎠 Hoje trabalho com front-end e QA's
 - 📲 Estou interessada em desenvolvimento mobile
-- 🌱 Estudando ReactJS
+- 🌱 Estudando Flutter
 - 📩 Contate-me no email: vivianne.engdesoftware@gmail.com
 
  <div>

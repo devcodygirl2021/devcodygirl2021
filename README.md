@@ -1,8 +1,8 @@
 ##Olá! Eu sou a Vivianne Guimarães!
 
 - 🎠 Hoje trabalho como Analista de Testes (QA)
-- 📲 Estou interessada em desenvolvimento/testes mobile
-- 🌱 Estudando Flutter
+- 📲 Estou interessada em desenvolvimento mobile
+- 🌱 Estudando Kotlin
 - 📩 Contate-me no email: vivianne.engdesoftware@gmail.com
 
  <div>

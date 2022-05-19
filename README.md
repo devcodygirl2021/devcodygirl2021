@@ -2,7 +2,7 @@
 
 - 🎠 Hoje trabalho como Analista de Testes Automatizados (QA)
 - 📲 Estou interessada em testes voltados para produtos mobile
-- 🌱 Estudando Cypress 
+- 🌱 Estudando RobotFrameWork e sua biblioteca Appium para testes Mobile
 - 📩 Contate-me no email: vivianne.engdesoftware@gmail.com
 
  <div>
